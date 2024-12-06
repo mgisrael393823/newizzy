@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/list-property/page": "app/list-property/page.js",
+  "/listings/page": "app/listings/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/listings/[id]/page": "app/listings/[id]/page.js",
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/applications/page": "app/dashboard/applications/page.js",
+  "/dashboard/inbox/page": "app/dashboard/inbox/page.js",
+  "/dashboard/properties/page": "app/dashboard/properties/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/tenants/page": "app/dashboard/tenants/page.js"
+}
